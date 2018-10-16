@@ -1,0 +1,22 @@
+{
+  "name": "@clusic/utils",
+  "version": "1.0.0",
+  "description": "The utils model of clusic",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clusic/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "cevio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clusic/utils/issues"
+  },
+  "homepage": "https://github.com/clusic/utils#readme",
+  "dependencies": {
+    "detect-port": "^1.2.3"
+  }
+}
